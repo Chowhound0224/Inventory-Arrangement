@@ -1,0 +1,20 @@
+I00001,Dairy Milk,Drinks,Boxes,7.80,55,30
+I00002,Salmon,Fish,kg,32.00,63,10
+I00003,Bread,Grains,Loaves,2.50,150,50
+I00004,Chicken Breast,Meat,kg,10.20,80,20
+I00005,Orange Juice,Drinks,Litres,4.50,100,40
+I00006,Apple,Fruits,kg,3.20,200,50
+I00007,Rice,Grains,Bags,22.00,180,70
+I00008,Olive Oil,Condiments,Litres,15.75,95,25
+I00009,Cheddar Cheese,Dairy,kg,9.60,120,40
+I00010,Butter,Dairy,kg,8.10,90,30
+I00011,Broccoli,Vegetables,kg,2.80,110,20
+I00012,Tomato Paste,Canned,kg,3.60,130,40
+I00013,Almonds,Nuts,kg,15.00,70,20
+I00014,Beef Steak,Meat,kg,25.50,45,15
+I00015,Corn Flakes,Cereals,Boxes,5.40,160,50
+I00016,Spaghetti,Pasta,Packs,3.50,140,40
+I00017,Yogurt,Dairy,Packs,2.20,170,60
+I00018,Sugar,Baking,Bags,4.30,190,50
+I00019,Green Tea,Drinks,Packs,6.70,80,30
+I00020,Carrots,Vegetables,kg,1.80,140,40
